@@ -105,6 +105,8 @@
 
 * [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
 * [NovaPlay](https://play.nova.bg/) - TV / Live / Sub / Dub / 1080p
+* [kolibka](https://kolibka.com/) - Documentaries / Sub / Dub / 720p
+* [kolibka](https://dokumentalni.com/) - Documentaries / Sub / Dub / 720p
 * [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
 * [Filmi99](https://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
 * [bgseriali](https://bgseriali.com/) - Movies / TV / Documentaries / Sub / Dub / 720p
